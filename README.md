@@ -1,4 +1,4 @@
-# Python4everybody
+# python4everybody
 Welcome to the Python Examples Repository! This collection consists of simple and easy-to-understand Python scripts, perfect for beginners and those seeking straightforward examples.
 
 ## Table of Contents
