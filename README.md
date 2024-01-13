@@ -14,11 +14,11 @@ This repository aims to provide a resource for individuals learning Python or an
 
 ## Contents
 
-- [basic-programs-part-1](link_to_file1.py): Brief description of what File1.py does.
-- [basic-programs-part-2](link_to_file2.py): Brief description of what File2.py does.
-- [cheat_sheets](link_to_file2.py): Brief description of what File2.py does.
-- [interviews](link_to_file2.py): Brief description of what File2.py does.
-- [practice](link_to_file2.py): Brief description of what File2.py does.
+- [basic-programs-part-1]([link_to_file1.py](https://github.com/SivanandhiniChandrasekaran/Python4everybody/tree/main/basic-programs-part-1)): Brief description of what File1.py does.
+- [basic-programs-part-2]([link_to_file2.py](https://github.com/SivanandhiniChandrasekaran/Python4everybody/tree/main/basic-programs-part-2)): Brief description of what File2.py does.
+- [cheat_sheets]([link_to_file2.py](https://github.com/SivanandhiniChandrasekaran/Python4everybody/tree/main/cheat_sheets)): Brief description of what File2.py does.
+- [interviews]([link_to_file2.py](https://github.com/SivanandhiniChandrasekaran/Python4everybody/tree/main/interviews)): Brief description of what File2.py does.
+- [practice]([link_to_file2.py](https://github.com/SivanandhiniChandrasekaran/Python4everybody/tree/main/practice)): Brief description of what File2.py does.
 
 Each Python file is documented with comments, offering insights into the purpose and functionality of the script. Feel free to explore, modify, and learn from these examples.
 
